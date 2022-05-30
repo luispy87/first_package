@@ -1,0 +1,3 @@
+from first_package import lib
+
+print(lib.try_me())
